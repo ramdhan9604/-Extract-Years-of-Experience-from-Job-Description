@@ -29,8 +29,7 @@ This project extracts the total years of experience required from job descriptio
 
 1. Clone this repository or download the code:
 ```bash
-git clone https://github.com/yourusername/experience-extractor.git
-cd experience-extractor
+git clone https://github.com/ramdhan9604/-Extract-Years-of-Experience-from-Job-Description.git
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
